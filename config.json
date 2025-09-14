@@ -1,7 +1,7 @@
 {
   "server": {
-    "host": "PROSTEAL_S2.aternos.me",
-    "port": 45193
+    "host": "Your server Ip",
+    "port": Port
   },
   "bot": {
     "username": "MinecraftBot",
